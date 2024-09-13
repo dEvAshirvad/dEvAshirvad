@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile
-
 ## 👋 Hello, I'm Ashirvad Satapathy
 
 I am a Fullstack Developer with a primary focus on backend development. With over 4 years of experience, I specialize in creating Machine Learning-integrated SaaS applications. My passion lies in building scalable, efficient, and innovative solutions that leverage the power of modern technology.
@@ -23,11 +21,11 @@ I am dedicated to designing and implementing robust backend systems and integrat
 
 ## 📈 Current Projects
 
-### Project 1: [ClashersAcademy]
+### ClashersAcademy
 - **Description**: AI-driven solutions that empower institutions, educators, and individuals to maximize their preparation efficiency for JEE and NEET, without replacing the traditional learning ecosystem but enhancing it..
-- **Tech Stack**: Express, Node, Mongodb, AWS, Docker.
+- **Tech Stack**: Express, Node, Mongodb, AWS, Docker, Python, HuggingFace.
 
-### Project 2: [CPA Tally Automation]
+### CPA Tally Automation
 - **Description**: Powerful tool designed to simplify and enhance the efficiency of accounting processes for Chartered Accountants. This project automates various tasks within Tally Prime, a popular accounting software, to reduce manual effort, minimize errors, and ensure accurate financial reporting.
 - **Tech Stack**: Node.js, MongoDB, Docker, AWS, React Native.
 
