@@ -35,7 +35,3 @@ I am dedicated to designing and implementing robust backend systems and integrat
 - [X](https://x.com/dEvAshirvad)
 - [Instagram](https://www.instagram.com/hello_jicky/?utm_source=qr&igsh=MWU3NWR5N2p3ejRnNQ%3D%3D)
 - [LinkedIn](https://www.linkedin.com/in/ashirvad-satapathy-2291961b7)
-
-## 📂 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
